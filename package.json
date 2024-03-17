@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "asihline": "1.1.4",
     "react": "^18",
+    "sanjijs": "1.1.4",
     "react-dom": "^18",
+    "stackviewer": "1.1.4",
     "next": "14.1.3",
     "pradagit": "1.1.4",
   },
